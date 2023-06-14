@@ -53,7 +53,7 @@
 <img src="Warxel.gif" alt="warxel" width="400" height="200"/>
 </p>
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><h6 align="right">Link to project</h6></a>
+<h6 align="right"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Link to project</a></h6>
 
 <hr>
 
