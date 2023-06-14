@@ -64,16 +64,17 @@
 
 <hr>
 
-<h4 align="left">2. P2:</h4>
+<h4 align="left">2. Hop On:</h4>
 
-<h6 align="left">Data
+<h6 align="left">Hop On is a online cab booking based project for the DBMS course. It is made using Flask,
+HTML, CSS and MySQL.
 </h6>
 
 <p align="center">
-<img src="" alt="p2" width="400" height="200"/>
+<img src="Hop_On.png" alt="p2" width="400" height="200"/>
 </p>
 
-<h6 align="right"><a href="" target="_blank" rel="noreferrer">Link to project</a></h6>
+<h6 align="right"><a href="https://github.com/ShubhamDas13/164_HopOn_Project/tree/main" target="_blank" rel="noreferrer">Link to project</a></h6>
 
 <hr>
 
