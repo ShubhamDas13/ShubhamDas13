@@ -24,7 +24,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing](https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing)
 
 - ⚡ Fun fact **I am good at Football**
-
 <hr>
 <img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="100" height="100" align="left"/>
 <img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="100" height="100" align="right"/>
@@ -36,10 +35,7 @@
     <a href="https://www.linkedin.com/in/shubham-das-0036a2206/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="Linkedin" width="40" height="40"/></a>
     <a href="https://leetcode.com/shubham20245/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/> </a>
 </p>
-
-
 <hr>
-
 <h3 align="center">SKILLS:</h3>
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
