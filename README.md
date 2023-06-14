@@ -12,7 +12,7 @@
 
 - 🎮 **Game Dev and AR/VR Enthusiast, Web Dev in python**
 
-- 👯 I am free collaborate on any **Python Projects**
+- 👯 I am free to collaborate on any **Python Projects**
 
 - 📄 Here is my [Resume](https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing)
 
