@@ -6,21 +6,13 @@
 
 <hr>
 
-- 🔭 I’m interested in **Game Dev and AR/VR related field**
+- 🎮 **Game Dev and AR/VR Enthusiast, Web Dev in python**
 
-- 🌱 I’m currently learning **AR/VR**
+- 👯 I can to collaborate on **Python Projects**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 📄 Here is my [Resume](https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShubhamDas13](https://github.com/ShubhamDas13)
-
-- 💬 Ask me about **Web Dev in python, Game Dev etc**
-
-- 📫 How to reach me **shubham20245@iiitd.ac.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing](https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing)
-
-- ⚡ Fun fact **I am good at Football**
+- ⚡ **I love playing Football and Egames**
 
 <hr>
 
