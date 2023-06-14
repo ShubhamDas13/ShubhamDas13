@@ -4,9 +4,9 @@
 
 <hr>
 
-<h1 align="center">Hey Fellas👋</h1>
-<h1 align="center"> I'm SHUBHAM DAS</h1>
-<h3 align="center">aka EyePatch</h3>
+<h1 align="left">Hey Fellas👋<h1 align="center"> I'm SHUBHAM DAS<h3 align="right">aka EyePatch</h3></h1></h1>
+
+
 
 <hr>
 - 🔭 I’m interested in **Game Dev and AR/VR related field**
