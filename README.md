@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamdas13&show_icons=true&locale=en&layout=compact" alt="shubhamdas13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="shubhamdas13" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamDas13&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="shubhamdas13" /></p>
