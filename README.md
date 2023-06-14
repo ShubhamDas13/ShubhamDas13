@@ -120,7 +120,5 @@ of stocks based on some data provided by the user
 <hr>
 <hr>
 
-<!-- <h3 align="center">Support:</h3>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamdas13&show_icons=true&locale=en&layout=compact" alt="shubhamdas13" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ShubhamDas13&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="shubhamdas13" /></p> -->
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamdas13&show_icons=true&locale=en&layout=compact" alt="shubhamdas13" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ShubhamDas13&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="shubhamdas13" /></p> -->
