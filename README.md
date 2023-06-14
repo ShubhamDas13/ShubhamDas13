@@ -1,14 +1,11 @@
 <p align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Starting-gif" width="1000" height="150"/>
 </p>
+<hr>
+<h1 align="left">Hey Fellas👋</h1><h1 align="center"> I'm SHUBHAM DAS</h1><h3 align="right">aka EyePatch</h3>
 
 <hr>
 
-<h1 align="left">Hey Fellas👋<h1 align="center"> I'm SHUBHAM DAS<h3 align="right">aka EyePatch</h3></h1></h1>
-
-
-
-<hr>
 - 🔭 I’m interested in **Game Dev and AR/VR related field**
 
 - 🌱 I’m currently learning **AR/VR**
@@ -24,18 +21,26 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing](https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing)
 
 - ⚡ Fun fact **I am good at Football**
+
 <hr>
-<img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="100" height="100" align="left"/>
-<img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="100" height="100" align="right"/>
+
+<img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="200" height="200" align="left"/>
+<img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="200" height="200" align="right"/>
+
 <h3 align="center">Reach Me Out On</h3>
+
 <p align="center"> 
     <a href="https://www.instagram.com/eyekidas/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="instagram" width="40" height="40"/></a>
     <a href="https://www.facebook.com/people/Shubham-Das/pfbid02wpPAuaT5Vm9gxoSELRV5whsd3Fqu7BAvs6Tz26UGkvFWxP7s6eE94RoZ47MTvvSXl/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/pejyg6fy1JpoQuLQQp/giphy.gif" alt="facebook" width="40" height="40"/></a>
     <a href="https://twitter.com/EyePatch013" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" alt="twitter" width="40" height="40"/></a>
     <a href="https://www.linkedin.com/in/shubham-das-0036a2206/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="Linkedin" width="40" height="40"/></a>
     <a href="https://leetcode.com/shubham20245/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/> </a>
+    <h5 align="center">Or mail me</h5>
+    <h4 align="center" color="blue">shubham20245@iiitd.ac.in</h4></a>
 </p>
+
 <hr>
+
 <h3 align="center">SKILLS:</h3>
 
 
