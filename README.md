@@ -24,8 +24,8 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="200" height="200" align="left"/>
-<img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="200" height="200" align="right"/>
+<img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="150" height="150" align="left"/>
+<img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="150" height="150" align="right"/>
 
 <h3 align="center">Reach Me Out On</h3>
 
