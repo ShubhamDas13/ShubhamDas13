@@ -45,9 +45,18 @@
 <h3 align="center">TOP 5 PROJECTS:</h3>
 
 <h5 align="left">1. Warxel:</h5>
-<p align="right">
+
+<h6 align="left">Warxel is a multiplayer online fighting game where players can engage in exciting and action-packed battles against other player. It was made in Unity Engine. 
+
+<h7 align="left"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">Link to project</a></h7>
+
+</h6>
+
+<p align="center">
 <img src="Warxel.gif" alt="warxel" width="400" height="200"/>
 </p>
+
+
 
 <hr>
 
