@@ -8,7 +8,7 @@
 
 - 🎮 **Game Dev and AR/VR Enthusiast, Web Dev in python**
 
-- 👯 I can to collaborate on **Python Projects**
+- 👯 I am free collaborate on any **Python Projects**
 
 - 📄 Here is my [Resume](https://drive.google.com/file/d/1jS5ScUFCx8KZWGFT3pBP2NQsKe5Vvs5K/view?usp=sharing)
 
@@ -44,6 +44,10 @@
 <hr>
 <h3 align="center">TOP 5 PROJECTS:</h3>
 
+<h5 align="left">1. Warxel:</h5>
+<p align="right">
+<img src="Warxel.gif" alt="warxel" width="400" height="200"/>
+</p>
 
 <hr>
 
