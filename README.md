@@ -29,11 +29,13 @@
 
 <h3 align="center">SOCIAL MEDIA:</h3>
 <p align="center"> 
+    <img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="60" height="60" align="left"/>
     <a href="https://www.instagram.com/eyekidas/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="instagram" width="40" height="40"/></a>
     <a href="https://www.facebook.com/people/Shubham-Das/pfbid02wpPAuaT5Vm9gxoSELRV5whsd3Fqu7BAvs6Tz26UGkvFWxP7s6eE94RoZ47MTvvSXl/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/pejyg6fy1JpoQuLQQp/giphy.gif" alt="facebook" width="40" height="40"/></a>
     <a href="https://twitter.com/EyePatch013" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" alt="twitter" width="40" height="40"/></a>
     <a href="https://www.linkedin.com/in/shubham-das-0036a2206/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="Linkedin" width="40" height="40"/></a>
     <a href="https://leetcode.com/shubham20245/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/> </a>
+    <img src="https://media.giphy.com/media/3o7aDd4hAEcciOzcVW/giphy.gif" alt="Starting-gif" width="60" height="60" align="right"/>
 </p>
 
 <hr>
