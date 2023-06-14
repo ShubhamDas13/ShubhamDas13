@@ -1,9 +1,8 @@
+<p align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Starting-gif" width="1000" height="150"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shubham Das</h1>
-<h3 align="center">Enhance Your Imagination</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdas13&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamdas13" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamdas13" alt="shubhamdas13" /></a> </p> -->
 
 - 🔭 I’m interested in **Game Dev and AR/VR related field**
 
@@ -21,11 +20,18 @@
 
 - ⚡ Fun fact **I am good at Football**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="Center">SOCIAL MEDIA:</h3>
 <p align="left">
+
+<a href="https://www.instagram.com/eyekidas/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="instagram" width="40" height="40"/> </a>
+
+
+<a href="https://www.facebook.com/people/Shubham-Das/pfbid02wpPAuaT5Vm9gxoSELRV5whsd3Fqu7BAvs6Tz26UGkvFWxP7s6eE94RoZ47MTvvSXl/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/pejyg6fy1JpoQuLQQp/giphy.gif" alt="instagram" width="40" height="40"/> </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">SKILLS:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 
