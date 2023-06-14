@@ -57,7 +57,7 @@
 </h6>
 
 <p align="center">
-<img src="Warxel.gif" alt="warxel" width="400" height="200"/>
+<img src="Warxel.gif" alt="warxel" width="400" height="200" style="border:2px solid #000000; padding:3px; margin:5px"/>
 </p>
 
 <h6 align="right"><a href="https://github.com/ShubhamDas13/Warxel_GDD" target="_blank" rel="noreferrer">Link to project</a></h6>
@@ -71,50 +71,51 @@ HTML, CSS and MySQL.
 </h6>
 
 <p align="center">
-<img src="Hop_On.png" alt="p2" width="400" height="200"/>
+<img src="Hop_On.png" alt="p2" width="400" height="200" style="border:2px solid #000000; padding:3px; margin:5px"/>
 </p>
 
 <h6 align="right"><a href="https://github.com/ShubhamDas13/164_HopOn_Project/tree/main" target="_blank" rel="noreferrer">Link to project</a></h6>
 
 <hr>
 
-<h4 align="left">3. p3:</h4>
+<h4 align="left">3. StockX:</h4>
 
-<h6 align="left">data
+<h6 align="left">StockX is a website based on Stocks made using Flask, HTML and CSS which displays the
+data of a stock in real time, shows the trending stocks and can calculate the SIP and CAGR
+of stocks based on some data provided by the user
 </h6>
 
 <p align="center">
-<img src="" alt="p3" width="400" height="200"/>
+<img src="Stockx.png" alt="p3" width="400" height="200" style="border:2px solid #000000; padding:3px; margin:5px"/>
 </p>
 
-<h6 align="right"><a href="" target="_blank" rel="noreferrer">Link to project</a></h6>
+<h6 align="right"><a href="https://github.com/ShubhamDas13/stockx" target="_blank" rel="noreferrer">Link to project</a></h6>
 
 <hr>
 
-<h4 align="left">4. p4:</h4>
+<h4 align="left">4. Cycle Accurate Simulator for an NoC Router and Mesh:</h4>
 
-<h6 align="left">dATa
+<h6 align="left">We input the clock time data and initial and final position of the Program Counter in the form of text file. Then use X-Y and Y-X routing to transfer the data from initial and final point. We also plotted the Latency plot and the Link Graph.
 </h6>
 
 <p align="center">
-<img src="" alt="p4" width="400" height="200"/>
-</p>
+<!-- <img src="" alt="p4" width="400" height="200"/>
+</p> -->
 
-<h6 align="right"><a href="" target="_blank" rel="noreferrer">Link to project</a></h6>
+<h6 align="right"><a href="https://github.com/ShubhamDas13/CAProject" target="_blank" rel="noreferrer">Link to project</a></h6>
 
 <hr>
 
-<h4 align="left">5. p5:</h4>
+<h4 align="left">5. Nimbus:</h4>
 
-<h6 align="left">daTA
+<h6 align="left">Nimbus is a 2D single player game made in Unity.
 </h6>
 
 <p align="center">
-<img src="" alt="p5" width="400" height="200"/>
+<img src="Nimbus.gif" alt="p5" width="400" height="200" style="border:2px solid #000000; padding:3px; margin:5px"/>
 </p>
 
-<h6 align="right"><a href="" target="_blank" rel="noreferrer">Link to project</a></h6>
-
+<h6 align="right"><a href="https://github.com/ShubhamDas13/Nimbus_GDD" target="_blank" rel="noreferrer">Link to project</a></h6>
 
 <hr>
 <hr>
