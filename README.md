@@ -2,8 +2,13 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Starting-gif" width="1000" height="150"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Das</h1>
+<hr>
 
+<h1 align="center">Hey Fellas👋</h1>
+<h1 align="center"> I'm SHUBHAM DAS</h1>
+<h3 align="center">aka EyePatch</h3>
+
+<hr>
 - 🔭 I’m interested in **Game Dev and AR/VR related field**
 
 - 🌱 I’m currently learning **AR/VR**
@@ -20,15 +25,18 @@
 
 - ⚡ Fun fact **I am good at Football**
 
+<hr>
 
 <h3 align="center">SOCIAL MEDIA:</h3>
 <p align="center"> 
     <a href="https://www.instagram.com/eyekidas/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="instagram" width="40" height="40"/></a>
     <a href="https://www.facebook.com/people/Shubham-Das/pfbid02wpPAuaT5Vm9gxoSELRV5whsd3Fqu7BAvs6Tz26UGkvFWxP7s6eE94RoZ47MTvvSXl/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/pejyg6fy1JpoQuLQQp/giphy.gif" alt="facebook" width="40" height="40"/></a>
     <a href="https://twitter.com/EyePatch013" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" alt="twitter" width="40" height="40"/></a>
+    <a href="https://www.linkedin.com/in/shubham-das-0036a2206/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="Linkedin" width="40" height="40"/></a>
     <a href="https://leetcode.com/shubham20245/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/> </a>
 </p>
 
+<hr>
 
 <h3 align="center">SKILLS:</h3>
 <p align="center"> 
@@ -56,9 +64,13 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
+<hr>
+<h3 align="center">TOP 5 PROJECTS:</h3>
 
-<h3 align="left">Support:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamdas13&show_icons=true&locale=en&layout=compact" alt="shubhamdas13" /></p>
+<hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamDas13&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="shubhamdas13" /></p>
+<h3 align="center">Support:</h3>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamdas13&show_icons=true&locale=en&layout=compact" alt="shubhamdas13" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ShubhamDas13&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="shubhamdas13" /></p>
