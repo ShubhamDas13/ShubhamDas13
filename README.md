@@ -38,13 +38,9 @@
 <hr>
 <h3 align="center">SKILLS:</h3>
 
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 100%">
-
-| <h3>Programming Languages</h3> | <h3>Frontend Development<h3> |<h3>Backend Development<h3> |
-| :-----: | :---: | :---: |
-| Seconds | 301   | 302|
+| <h3>Programming Languages</h3> | <h3>Frontend Development<h3> |<h3>Backend Development<h3> |<h3>Backend Development<h3> |
+| :-----: | :---: | :---: | :---: |
+| Seconds | 301   | 302 | 302 |
 
 </div>
 
